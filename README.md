@@ -31,6 +31,13 @@ https://www.notion.so/SHINOS-Prior-Record-Hub-2d3c28c87ba1802cbabac0a903f36d3e
 - SHINOS is not a product, service, or technique.
 - The record documents **that an event occurred**, nothing more.
 
+## Authoritative Record
+
+The authoritative prior records of SHINOS are archived on Zenodo.
+
+Please refer to the Zenodo DOI links for citation and verification.
+This GitHub repository serves only as a reference mirror.
+
 ---
 
 Creator & recorder: SHIN  
